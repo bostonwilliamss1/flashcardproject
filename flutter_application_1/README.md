@@ -5,9 +5,7 @@ This is a app where you can practice your Spanish. There are 9 different categor
 
 The purpose in creating this app is so that students have a place to study a few words whenever they feel like they have the time. It makes it easy to quiz yourself! 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=d_dsilvnzhA)
 
 # Development Environment
 
